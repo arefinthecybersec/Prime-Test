@@ -1,0 +1,14 @@
+ls
+cd
+git init
+git remote add origin <gitlink>
+git remote -v
+git add .
+git commit -m "First commit"
+git push origin master
+
+................................
+for git extra feature/help need: git help
+Note: git add . (mean: oi folder er under ey sb file access) , specific dite cyle (.) atr bodole oi file nm mention.
+
+Thats's it. ----Thanks
